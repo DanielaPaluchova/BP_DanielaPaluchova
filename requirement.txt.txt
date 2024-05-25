@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jsonlines
+beautifulsoup4
+re
+nltk
+datetime
+emoji
+sklearn
+spacy
+langdetect
+jupyter
+scikit-learn
